@@ -22,5 +22,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-# vim temporary files, maybe dangerous to ignore everything with ~ but thats's a problem for future me
 *~
+<<<<<<< HEAD
+=======
+# vim temporary files, maybe dangerous to ignore everything with ~ but thats's a problem for future me
+>>>>>>> main
+*
