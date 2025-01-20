@@ -1,5 +1,4 @@
 Colin Tugend
-This is a change on newbranch.
 Colin Tugend2
 testbranch change
 
