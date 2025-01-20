@@ -23,3 +23,8 @@
 hs_err_pid*
 replay_pid*
 *~
+<<<<<<< HEAD
+=======
+# vim temporary files, maybe dangerous to ignore everything with ~ but thats's a problem for future me
+>>>>>>> main
+*
